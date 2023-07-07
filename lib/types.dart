@@ -37,7 +37,7 @@ class WelcomeScreen extends StatelessWidget {
 
 class TypeScreen extends StatelessWidget {
   final List<String> buttonTexts = [
-    "Log In With Phone Number",
+    "Phone Number",
     "Button 2",
     "Button 3",
     "Button 4",
