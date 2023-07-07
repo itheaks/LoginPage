@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "997447284593",
+    "project_id": "buy-me-1e307",
+    "storage_bucket": "buy-me-1e307.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997447284593:android:f4b79aaf0d38cbf52c68d0",
+        "android_client_info": {
+          "package_name": "com.example.buyme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997447284593-t56jv5ri4m1gih10ac16t5m09dm6ufph.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.buyme",
+            "certificate_hash": "5df81cf86e7b49b27f6199de03062a116db2dc02"
+          }
+        },
+        {
+          "client_id": "997447284593-8n30899amselsffoc52nm2c14j3clo9j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkB9XpMnoZYvonsu-RKCSwRw1LHD6Ij_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997447284593-8n30899amselsffoc52nm2c14j3clo9j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
