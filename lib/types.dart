@@ -46,7 +46,6 @@ class TypeScreen extends StatelessWidget {
     "Button 7",
     "Button 8",
     "Button 9",
-    "Button 10",
   ];
 
   @override
