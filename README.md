@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+HEAD
 # buyme
 
 A new Flutter project.
